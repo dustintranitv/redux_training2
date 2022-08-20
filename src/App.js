@@ -176,7 +176,7 @@ class App extends Component {
     return (
       <div className='container'>
         <div className='text-center'>
-          <h1>Quản lý công việc</h1>
+          <h1>Quản lý công việc nè!!</h1>
         </div>
         <div className="row mt-15">
           <div className={isDisplayForm ? "col-xs-4 col-sm-4 col-md-4 col-lg-4" : ""}>
